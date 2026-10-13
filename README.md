@@ -1,4 +1,4 @@
-# GEAR × ARENA — Akiya Hoken's working portfolio
+# GEAR × ARENA — Akiya's working portfolio
 
 My completed exercises, notes and results from working through the
 [ARENA](https://github.com/ARENA-education/ARENA_materials) technical AI-safety curriculum
