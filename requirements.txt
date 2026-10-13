@@ -1,0 +1,9 @@
+# Only needed for running locally; Colab already has these.
+# The scripts in scripts/ use the Python standard library only.
+torch
+einops
+jaxtyping
+transformer_lens
+plotly
+matplotlib
+wandb

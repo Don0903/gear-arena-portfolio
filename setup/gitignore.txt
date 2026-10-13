@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.key
+secrets.*
+
+# Model weights, checkpoints, datasets (link to them in NOTES.md instead)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+data/
+datasets/
+checkpoints/
+models/
+
+# Experiment tracking / caches
+wandb/
+runs/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# ARENA solutions notebooks (keep only your own exercises notebooks)
+*_solutions.ipynb
